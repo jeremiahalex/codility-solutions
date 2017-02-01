@@ -3,6 +3,7 @@ Rotate an array to the right by a given number of steps.
 
 ### Solution (JavaScript)
 Performance is not a concern so the simplest solution is probably the best. Just repeat the rotation process K times.
+
 __[Test Score: 100%](https://codility.com/demo/results/trainingVRBP48-MUD/)__
 ```js
 function solution(A, K) {
@@ -22,6 +23,7 @@ function solution(A, K) {
 ```
 ### Alternative Solution (JavaScript)
 An alternative solution is to construct an auxilary array, which then requires us to have only 1 loop.
+
 __[Test Score: 100%](https://codility.com/demo/results/trainingR788SU-RME/)__
 ```js
 function solution(A, K) {
