@@ -28,9 +28,6 @@ function solution(A) {
 ### Alternative Solution (JavaScript)
 A more elegant solution is to work out the expected total of the array and the actual total of the values in it. The differenece is the missing number.
 
-// you can write to stdout for debugging purposes, e.g.
-// console.log('this is a debug message');
-
 __[Test Score: 100%](https://codility.com/demo/results/trainingNUJKUF-8PG/)__
 
 ```js
