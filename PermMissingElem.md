@@ -24,3 +24,25 @@ function solution(A) {
     return 0
 }
 ```
+
+### Alternative Solution (JavaScript)
+A more elegant solution is to work out the expected total of the array and the actual total of the values in it. The differenece is the missing number.
+
+// you can write to stdout for debugging purposes, e.g.
+// console.log('this is a debug message');
+
+__[Test Score: 100%](https://codility.com/demo/results/trainingNUJKUF-8PG/)__
+
+```js
+function solution(A) {
+    var expectedTotal = 0
+    var actualTotal = 0
+    
+    for (var i = 0; i < A.length; ++i){
+        actualTotal += A[i]
+        expectedTotal += i + 1
+    }
+    expectedTotal += A.length + 1
+    return expectedTotal - actualTotal
+}
+```
