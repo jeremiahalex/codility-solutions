@@ -12,3 +12,9 @@ My collection of solutions (mostly in JavaScript) for Codility lessons. Primaril
 1. [FrogJmp](FrogJmp.md)
 1. [PermMissingElem](PermMissingElem.md)
 1. [TapeEquilibrium](TapeEquilibrium.md)
+
+### Lesson 4 - Counting Elements
+1. [MissingInteger](MissingInteger.md)
+1. [FrogRiverOne](FrogRiverOne.md)
+1. [PermCheck](PermCheck.md)
+1. [MaxCounters](MaxCounters.md)
