@@ -18,3 +18,15 @@ My collection of solutions (mostly in JavaScript) for Codility lessons. Primaril
 1. [FrogRiverOne](FrogRiverOne.md)
 1. [PermCheck](PermCheck.md)
 1. [MaxCounters](MaxCounters.md)
+
+### Lesson 5 - Prefix Sums
+1. [CountDiv](CountDiv.md)
+1. [PassingCars](PassingCars.md)
+1. [GenomicRangeQuery](GenomicRangeQuery.md)
+<!-- 1. [MinAvgTwoSlice](MinAvgTwoSlice.md) -->
+
+### Lesson 6 - Sorting
+1. [Distinct](Distinct.md)
+1. [MaxProductOfThree](MaxProductOfThree.md)
+1. [Triangle](Triangle.md)
+1. [NumberOfDiscIntersections](NumberOfDiscIntersections.md)
