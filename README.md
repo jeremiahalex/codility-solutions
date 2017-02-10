@@ -23,7 +23,7 @@ My collection of solutions (mostly in JavaScript) for Codility lessons. Primaril
 1. [CountDiv](CountDiv.md)
 1. [PassingCars](PassingCars.md)
 1. [GenomicRangeQuery](GenomicRangeQuery.md)
-<!-- 1. [MinAvgTwoSlice](MinAvgTwoSlice.md) -->
+1. [MinAvgTwoSlice](MinAvgTwoSlice.md)
 
 ### Lesson 6 - Sorting
 1. [Distinct](Distinct.md)
