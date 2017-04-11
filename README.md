@@ -30,3 +30,7 @@ My collection of solutions (mostly in JavaScript) for Codility lessons. Primaril
 1. [MaxProductOfThree](MaxProductOfThree.md)
 1. [Triangle](Triangle.md)
 1. [NumberOfDiscIntersections](NumberOfDiscIntersections.md)
+
+### Lesson 7 - Stacks and Queues
+1. [Brackets](Brackets.md)
+1. [Fish](Fish.md)
