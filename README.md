@@ -1,5 +1,5 @@
 # Codility Lesson Solutions
-My collection of solutions (mostly in JavaScript) for Codility lessons. Primarily intended as a reference for students on my coding course.
+My collection of solutions in JavaScript for Codility lessons. Started as a reference for students on my coding course.
 
 ### Lesson 1 - Iterations
 1. [BinaryGap](BinaryGap.md)
