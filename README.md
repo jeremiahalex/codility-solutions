@@ -34,3 +34,5 @@ My collection of solutions in JavaScript for Codility lessons. Started as a refe
 ### Lesson 7 - Stacks and Queues
 1. [Brackets](Brackets.md)
 1. [Fish](Fish.md)
+1. [Nesting](Nesting.md)
+1. [StoneWall](StoneWall.md)
