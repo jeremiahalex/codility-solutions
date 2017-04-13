@@ -36,3 +36,6 @@ My collection of solutions in JavaScript for Codility lessons. Started as a refe
 1. [Fish](Fish.md)
 1. [Nesting](Nesting.md)
 1. [StoneWall](StoneWall.md)
+
+### Lesson 8 - Leader
+1. [EquiLeader](EquiLeader.md)
