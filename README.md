@@ -39,3 +39,4 @@ My collection of solutions in JavaScript for Codility lessons. Started as a refe
 
 ### Lesson 8 - Leader
 1. [EquiLeader](EquiLeader.md)
+1. [Dominator](Dominator.md)
