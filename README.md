@@ -43,4 +43,4 @@ My collection of solutions in JavaScript for Codility lessons. Started as a refe
 
 ### Lesson 9 - Maximum slice problem
 1. [MaxDoubleSlice](MaxDoubleSlice.md)
-1. [MaxProfit] (MaxProfit.md)
+1. [MaxProfit](MaxProfit.md)
